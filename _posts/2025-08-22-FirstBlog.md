@@ -1,4 +1,4 @@
 ---
-First Blog
-2025-08-22
+title: First Blog
+date: 2025-08-22
 ---
